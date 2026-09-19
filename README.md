@@ -241,4 +241,4 @@ This repository serves as the official landing page for PDFelement. The software
 **Get the most recent version of PDFelement today!**
 
 ---
-**Last updated:** 2026-09-18 23:42:49 UTC
+**Last updated:** 2026-09-19 01:58:40 UTC
